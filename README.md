@@ -1,0 +1,2 @@
+# Stroke_width_transform-and-modified-Connected-Components
+Inspired from  https://github.com/aperrau/detecttext,https://github.com/mypetyak/StrokeWidthTransform and https://www.microsoft.com/en-us/research/publication/stroke-width-transform/?from=http%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F149305%2F1509.pdf, I've written a simple function for Stroke width transform and modified connected component labelling. 
